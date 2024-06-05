@@ -4,16 +4,16 @@
 
 ### Node :
 
-- [ ] Installation de NodeJS
-- [ ] Quelle est la différence entre Node et NPM
-- [ ] Découverte de "NPM", "Yarn" et "PNPM"
-  - [ ] Comprendre les différences entre les package managers et en choisir un.
-  - [ ] Comprendre ce qu'est un package Node.
-  - [ ] Savoir faire les commandes de bases :
-    - [ ] Initialiser un projet Node.
-      - [ ] Comprendre la structure du fichier `package.json` ([voir ici](https://docs.npmjs.com/cli/v10/configuring-npm/package-json))
-    - [ ] Installer un package (local et global)
-    - [ ] Désinstaller un package (local et global)
+- [x] Installation de NodeJS
+- [x] Quelle est la différence entre Node et NPM
+- [x] Découverte de "NPM", "Yarn" et "PNPM"
+  - [x] Comprendre les différences entre les package managers et en choisir un.
+  - [x] Comprendre ce qu'est un package Node.
+  - [x] Savoir faire les commandes de bases :
+    - [x] Initialiser un projet Node.
+      - [x] Comprendre la structure du fichier `package.json` ([voir ici](https://docs.npmjs.com/cli/v10/configuring-npm/package-json))
+    - [x] Installer un package (local et global)
+    - [x] Désinstaller un package (local et global)
     - [ ] Mettre jour les packages (local et global) et le package manager
 - [ ] Découvrir les linters et formaters
 - [ ] Quelle est la différence entre un linter et un formater
